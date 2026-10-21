@@ -1,0 +1,13 @@
+name = "Easy Shulker Boxes"
+filename = "easyshulkerboxes-v26.3.2-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gA5euN8S/versions/GqzWXV91/easyshulkerboxes-v26.3.2-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "f7af0c42da9b2da7ebd8bdde86a3f83ec1e4fcffb6b3109c0b70fd9a272eb6f20507c56653bf4810f8cfe6403f036dd00ccbeb8b7b5a448c703bd7a915a558e5"
+
+[update]
+[update.modrinth]
+mod-id = "gA5euN8S"
+version = "GqzWXV91"

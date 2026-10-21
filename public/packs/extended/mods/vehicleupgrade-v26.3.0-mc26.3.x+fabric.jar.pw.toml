@@ -1,0 +1,13 @@
+name = "vehicleupgrade-v26.3.0-mc26.3.x+fabric"
+filename = "vehicleupgrade-v26.3.0-mc26.3.x+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9B9c6QcJ/versions/5wSEzC2h/vehicleupgrade-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "36802c8052104c09e90ac421a575d895275cbfe6cf19a076a55ba2d5e15e43e7cae539277c53c9b2f239e90ce79b47b2899639493d44d4939f8778ea32400112"
+
+[update]
+[update.modrinth]
+mod-id = "9B9c6QcJ"
+version = "5wSEzC2h"

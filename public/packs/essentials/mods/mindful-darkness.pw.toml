@@ -1,0 +1,13 @@
+name = "Mindful Darkness"
+filename = "mindfuldarkness-v26.3.0-mc26.3.x+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/WtWyxcXv/mindfuldarkness-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "01543701ff08c06f4c55b03d096e005edd410ef751c6e4bd5eb771d89097853511b607197b2a3245e1a7ffddc29c8f9a5ebb5199132ef3d37019ede3bc6d1057"
+
+[update]
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "WtWyxcXv"

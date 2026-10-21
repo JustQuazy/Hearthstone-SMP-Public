@@ -1,0 +1,13 @@
+name = "Hearthstone SMP Extended"
+author = "Hearthstone SMP"
+version = "0.1.0-test.11"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "72ffd6b403231f554199ed02cc7d7811adee8e2bc3550e0d5a827dd875afb2fc"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"

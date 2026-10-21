@@ -1,0 +1,13 @@
+name = "Configured Defaults"
+filename = "configureddefaults-v26.3.0-mc26.3.x+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/frAVVzBj/configureddefaults-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "cf0d8acbf4ce1ecee8bf2a350b43782cdb7248ff0606f14b21f5c7f9a34420af7a700ce3cf17b724d4e73368ab4c27a4883202dd3f117f4bb46fe1984a5d0b53"
+
+[update]
+[update.modrinth]
+mod-id = "SISoSFPP"
+version = "frAVVzBj"

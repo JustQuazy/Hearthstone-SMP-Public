@@ -1,0 +1,13 @@
+name = "All The Heads"
+filename = "alltheheads-v26.3.2-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ax17wp3L/versions/U4JITmFR/alltheheads-v26.3.2-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "6662b92ebf572e1919f068696e1824647db34caf18c01c599fe8b26f61c99e43151dc5d35fa09dd8e567ff22d4f1fcf3d352ca4f91f2d60ef902226e185585ea"
+
+[update]
+[update.modrinth]
+mod-id = "Ax17wp3L"
+version = "U4JITmFR"

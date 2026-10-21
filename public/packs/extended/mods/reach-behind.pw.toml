@@ -1,0 +1,13 @@
+name = "Reach Behind"
+filename = "reachbehind-v26.3.0-mc26.3.x+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MDljZreW/versions/bXmtRkSU/reachbehind-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "dc57b48f49561080b60fab8f162fc4ff31816031286f82cf5174a3f7524103dd18e9c80996bc8ac24c9a2f180487b3b2f3ebbaedf5cbbdcbd0709d1f9b1e342f"
+
+[update]
+[update.modrinth]
+mod-id = "MDljZreW"
+version = "bXmtRkSU"

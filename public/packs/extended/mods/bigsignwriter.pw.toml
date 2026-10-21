@@ -1,0 +1,13 @@
+name = "Big Sign Writer"
+filename = "bigsignwriter-3.1.1+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UCpxwAAu/versions/ics7z6RR/bigsignwriter-3.1.1%2B26.3.jar"
+hash-format = "sha512"
+hash = "b7e4b6eb47f9cfb6155f4d0245ed9d66eb716da3f6c56a8840460cdcf7dc723311d2b318d35e0065b89f2619664c1cf094453347a87be790520a3bfc3496e84b"
+
+[update]
+[update.modrinth]
+mod-id = "UCpxwAAu"
+version = "ics7z6RR"

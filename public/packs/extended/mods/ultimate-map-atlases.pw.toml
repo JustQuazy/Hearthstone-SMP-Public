@@ -1,0 +1,13 @@
+name = "Ultimate Map Atlases"
+filename = "ultimate_map_atlases-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sMGE68Dq/versions/kpOlZ6hJ/ultimate_map_atlases-26.3.jar"
+hash-format = "sha1"
+hash = "4ab16f9fa1f7c356b867a3f718c44c9bacf4d159"
+
+[update]
+[update.modrinth]
+mod-id = "sMGE68Dq"
+version = "kpOlZ6hJ"

@@ -1,0 +1,13 @@
+name = "screenshotgallery-fabric-2.1"
+filename = "screenshotgallery-fabric-2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhVCYgCW/versions/Kt0Rt2vI/screenshotgallery-fabric-2.1.jar"
+hash-format = "sha512"
+hash = "2b5e57f3c57841b9a6e851933aac70bf7f7ba0dc357cf8795b6162b8697f3c1b5da79bc0f9abf81e87ca5a36cdd3324ac868ff338025c7621c74929c7cd834dd"
+
+[update]
+[update.modrinth]
+mod-id = "IhVCYgCW"
+version = "Kt0Rt2vI"

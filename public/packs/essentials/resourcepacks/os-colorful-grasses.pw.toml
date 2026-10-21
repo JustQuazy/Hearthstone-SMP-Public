@@ -1,0 +1,13 @@
+name = "Os' Colorful Grasses"
+filename = "Os' Colorful Grasses (Mix).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O2zhH8n8/versions/N7bNnzLc/Os%27%20Colorful%20Grasses%20%28Mix%29.zip"
+hash-format = "sha512"
+hash = "51e5cc4820606088a30999d2ff1d681b62da741653431c34cb2107afdd3f9cb57147a7ac219d1a64b3f5ae6ddaebf67cc34c28bb048f6abe31447d158db81a37"
+
+[update]
+[update.modrinth]
+mod-id = "O2zhH8n8"
+version = "N7bNnzLc"

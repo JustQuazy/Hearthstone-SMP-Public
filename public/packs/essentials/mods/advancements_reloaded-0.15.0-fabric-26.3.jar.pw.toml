@@ -1,0 +1,13 @@
+name = "advancements_reloaded-0.15.0-fabric-26.3"
+filename = "advancements_reloaded-0.15.0-fabric-26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/yRVkVHDC/advancements_reloaded-0.15.0-fabric-26.3.jar"
+hash-format = "sha512"
+hash = "ffda3105ec2a83c8b5e6d08e5d7c2ceacf980e6f8977da83beb2abcf0bf086ab5ed875881e85106ef734ccb4f9eb51151a0319b14dbc76310028265fb7a44a20"
+
+[update]
+[update.modrinth]
+mod-id = "tLuRLqpa"
+version = "yRVkVHDC"

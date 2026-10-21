@@ -1,0 +1,13 @@
+name = "Universal Enchants"
+filename = "universalenchants-v26.3.1-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DT56YDir/versions/Amz3PLlk/universalenchants-v26.3.1-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "c9b5e4461a4383dcec63574579e8af7dc2e2237d534cda70fd01489824349e223073e5c1f56315449b7553ad99c17854b0c7fdc04b04138d23a541fe66ff7aed"
+
+[update]
+[update.modrinth]
+mod-id = "DT56YDir"
+version = "Amz3PLlk"

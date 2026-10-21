@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "deleteworldstotrash-v26.3.0-mc26.3.x+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7diJQfvM/versions/JsqB5enD/deleteworldstotrash-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "7af95139dceb3cc7ae9afd4a542c9ee41abd180fcb5ae479dcc9f6b1141260ec17d1892c4dad887dec8034f57fe4e27a8a4f280e410f04672d6c3bda8442e25c"
+
+[update]
+[update.modrinth]
+mod-id = "7diJQfvM"
+version = "JsqB5enD"
