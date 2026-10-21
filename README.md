@@ -1,4 +1,4 @@
-# Hearthstone SMP player site — local draft
+# Hearthstone SMP player site
 
 This repository publishes the Dutch player handbook and two Packwiz manifests through GitHub Pages.
 
