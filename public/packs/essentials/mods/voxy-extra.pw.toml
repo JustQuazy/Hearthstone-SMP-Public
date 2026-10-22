@@ -1,0 +1,13 @@
+name = "Voxy Extra"
+filename = "voxy-extra-0.2.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/znQnhrkQ/versions/F8Ri3jml/voxy-extra-0.2.8.jar"
+hash-format = "sha512"
+hash = "c03786aa11c8640d9e41ed399fc4e696eee7761beb684240e7b7aa6484f5117443f6e4845e378b3b07ec09957271bae669bba0f811f1c358ec60e8ce27dd4fdc"
+
+[update]
+[update.modrinth]
+mod-id = "znQnhrkQ"
+version = "F8Ri3jml"

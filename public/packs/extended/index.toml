@@ -794,3 +794,17 @@ metafile = true
 file = "resourcepacks/os-colorful-grasses.pw.toml"
 hash = "26e03eb8a8d748048c20b584750399a3a402b5214159150415700139ad0aeeba"
 metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "aca6c2138fcc96dd2c220869704fa8643290874cd41a858a2356f5826c36e1d0"
+metafile = true
+
+[[files]]
+file = "mods/voxy-extra.pw.toml"
+hash = "057fa6e7ef7096010afd5f1a16eae641283f89f3c880d2709101f30555cc4857"
+metafile = true
+
+[[files]]
+file = "config/modpack_defaults/config/betterclouds-v1.json"
+hash = "abb69b5054ef046789e82070e7a717a955743c4156bfc5dc76d30a8fc27f227b"
