@@ -46,3 +46,4 @@ key_gui.xaero_open_map:key.keyboard.o
 key_gui.xaero_waypoints_key:key.keyboard.u
 key_gui.xaero_new_waypoint:key.keyboard.i
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown

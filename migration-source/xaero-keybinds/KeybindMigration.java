@@ -22,8 +22,13 @@ public final class KeybindMigration implements PreLaunchEntrypoint {
         catch (IOException e) { throw new IllegalStateException("Hearthstone keybinding migration failed; existing settings were not intentionally discarded", e); }
     }
     public static void apply(Path root) throws IOException {
+        applyChange(root, BINDINGS, "2026-11-03-xaero-keybinds", "2026-11-03-options-before-xaero.txt");
+        applyChange(root, Map.of("key_gui.xaero_minimap_settings", "key.keyboard.unknown"),
+                "2026-11-03-minimap-settings-key", "2026-11-03-options-before-minimap-key.txt");
+    }
+    private static void applyChange(Path root, Map<String, String> bindings, String migration, String backupName) throws IOException {
         Path state = root.resolve("hearthstone-migrations");
-        Path marker = state.resolve("2026-11-03-xaero-keybinds.done");
+        Path marker = state.resolve(migration + ".done");
         if (Files.exists(marker)) return;
         Files.createDirectories(state);
         Path options = root.resolve("options.txt");
@@ -39,13 +44,13 @@ public final class KeybindMigration implements PreLaunchEntrypoint {
         for (String line : text.split("\r?\n", -1)) {
             int colon = line.indexOf(':');
             String key = colon < 0 ? "" : line.substring(0, colon);
-            if (BINDINGS.containsKey(key)) {
-                if (done.add(key)) output.add(key + ":" + BINDINGS.get(key));
+            if (bindings.containsKey(key)) {
+                if (done.add(key)) output.add(key + ":" + bindings.get(key));
             } else output.add(line);
         }
         while (!output.isEmpty() && output.get(output.size() - 1).isEmpty()) output.remove(output.size() - 1);
-        for (var e : BINDINGS.entrySet()) if (!done.contains(e.getKey())) output.add(e.getKey() + ":" + e.getValue());
-        Path backup = state.resolve("2026-11-03-options-before-xaero.txt");
+        for (var e : bindings.entrySet()) if (!done.contains(e.getKey())) output.add(e.getKey() + ":" + e.getValue());
+        Path backup = state.resolve(backupName);
         if (!Files.exists(backup)) Files.write(backup, original, StandardOpenOption.CREATE_NEW);
         Path tmp = Files.createTempFile(root, ".hearthstone-options-", ".tmp");
         try {
