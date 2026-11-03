@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"hearthstone_keybind_migration","version":"1.0.0","name":"Hearthstone one-time keybinding migration","environment":"client","entrypoints":{"preLaunch":["hearthstone.migration.KeybindMigration"]},"depends":{"fabricloader":">=0.19.5","minecraft":">=26.3 <26.4"}}

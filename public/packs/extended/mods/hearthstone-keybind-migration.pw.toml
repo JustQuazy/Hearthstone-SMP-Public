@@ -1,0 +1,8 @@
+name = "Hearthstone one-time keybinding migration"
+filename = "hearthstone-keybind-migration-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://justquazy.github.io/Hearthstone-SMP-Public/packs/extended/artifacts/hearthstone-keybind-migration-1.0.0.jar"
+hash-format = "sha256"
+hash = "5c7035b2d48779181a263779b1df84b2c3a9e48fb89d5c7fb70c13e9a09b8340"

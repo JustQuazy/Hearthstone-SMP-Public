@@ -238,7 +238,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "1f440bbf3344be9a6859b0e70edc0d969fb163a6b22c1ab4a50a1b7ddf0ed87a"
+hash = "1f0b1e846c88b848c94e2d6314ae18b0a471183f9cbe46c0b860e99a1b9b901f"
 
 [[files]]
 file = "mods/BetterGrassify-1.8.8+fabric.26.3.jar.pw.toml"
@@ -808,3 +808,66 @@ metafile = true
 [[files]]
 file = "config/modpack_defaults/config/betterclouds-v1.json"
 hash = "abb69b5054ef046789e82070e7a717a955743c4156bfc5dc76d30a8fc27f227b"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f6d066ea7f51920ca105e84afe05d794b15911c7c601eb6099cfcf3062bafb44"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "86bb8afeeace8aa70cb3d7dad97137ba13cea6753d9663200b96367314e7122b"
+metafile = true
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/default.cfg"
+hash = "55ba466b7ce7ed4efdc8b6ec744736b344ae7381b8a91a19c28e806dd7e23c4d"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "c3beedcfb37500a926bfe2377f1f5779b514866c6a094e0eb558701c7132d918"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/profiles/default.cfg"
+hash = "4fe5162c1cd11129cb141c5fb9137a2ce3463ef6b318a96b372300570eb6dda2"
+
+[[files]]
+file = "config/modpack_defaults/config/xaerohud.txt"
+hash = "5ad70fa9ada64222bdf780701d7dc9afce620c5869ee9270d2d7830bb4efa5eb"
+
+[[files]]
+file = "mods/hearthstone-keybind-migration.pw.toml"
+hash = "01d22f7096f2c5057b3e98b3af8bd329c7f44fe0daea196638ccf27a28d88ad4"
+metafile = true
